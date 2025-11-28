@@ -1,0 +1,1 @@
+En este app web tuvimos que crear un nuevo documento llamado practica_streamlit en donde trato de crear nuestra primera app web usando por primera vez el streamlit, los pasos que pusimos fueron los mismos de como crear un documento, como crear un entorno virtual y como activarlo, luego con pip install isntalamos streamlit y ya por ultimo creamos nuestra primera app web
